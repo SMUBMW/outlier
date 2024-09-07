@@ -1,0 +1,27 @@
+{
+    "FX": {
+        "outlier": [0.02, 0.06, 0.01],
+        "missing_data": [2, 21, 1],
+        "staleness": [3, 16, 1]
+    },
+    "InterestRate": {
+        "outlier": [0.02, 0.06, 0.01],
+        "missing_data": [3, 16, 1],
+        "staleness": [3, 13, 1]
+    },
+    "Commodity": {
+        "outlier": [0.03, 1.01, 0.01],
+        "missing_data": [4, 19, 1],
+        "staleness": [4, 18, 1]
+    },
+    "Credit": {
+        "outlier": [0.05, 5.01, 0.01],
+        "missing_data": [5, 19, 1],
+        "staleness": [5, 20, 1]
+    },
+    "Equity": {
+        "outlier": [0.8, 3.1, 0.1],
+        "missing_data": [4, 20, 1],
+        "staleness": [4, 16, 1]
+    }
+}
